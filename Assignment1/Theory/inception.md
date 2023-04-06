@@ -1,3 +1,6 @@
+Namaste React Course by Akshay Saini
+Chapter 01 - Inception
+
 What is Emmet ?
 Emmet is a set of plugins for text editors that allow you to write HTML and CSS code faster and more efficiently. Emmet provides a shorthand syntax for writing code that expands into full HTML and CSS code.
 For example if you type '!' followed by a tab , you will get
